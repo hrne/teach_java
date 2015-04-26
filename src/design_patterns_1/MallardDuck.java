@@ -1,7 +1,10 @@
 package design_patterns_1;
 
-
-//ºñÀYÀn
+/**
+ * ºñÀYÀn
+ * @author hrne
+ *
+ */
 public class MallardDuck extends Duck{
 	public MallardDuck(){
 		//Ä~©Ó¦Üduck

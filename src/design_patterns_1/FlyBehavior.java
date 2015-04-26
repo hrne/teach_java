@@ -1,7 +1,7 @@
 package design_patterns_1;
 
 /**
- * 飛行動作
+ * 飛行_行為
  * @author hrne
  *
  */

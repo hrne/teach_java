@@ -1,7 +1,7 @@
 package design_patterns_1;
 
 /**
- * ©K©K¥s
+ * ©K©K¥s_¦æ¬°
  * @author hrne
  *
  */
