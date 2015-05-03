@@ -5,6 +5,6 @@ public class WeatherStation {
 		WeatherData weatherDate = new WeatherData();
 		CurrentConditionsDisplay currentDisplay= new CurrentConditionsDisplay(weatherDate);
 		
-		weatherDate.setMeasurements(80, 98, 30.4F);
+		weatherDate.setMeasurements(80, 98, 30.5F);
 	}
 }
