@@ -2,7 +2,7 @@ package design_patterns_2;
 
 
 /**
- * ¥DÃD
+ * Â¥DÃƒD
  * @author hrne
  *
  */
@@ -12,4 +12,6 @@ public interface Subject {
 	public void notifyObserver();
 	
 	int a=0;
+	
+	int b=1;
 }
